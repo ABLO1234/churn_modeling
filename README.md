@@ -13,11 +13,11 @@ Ce projet vise à prédire le churn des clients à partir de données transactio
 
 ## 📂 Structure du projet  
 
-## 🔍 Analyse des données  
+🔍 Analyse des données  
 - **Exploration des données** : Nettoyage, traitement des valeurs manquantes et encodage des variables.  
 - **Analyse univariée & bivariée** : Étude des distributions et corrélations.  
 - **Réduction de dimension** : ACP pour simplifier l'espace des features.  
 
-## 🤖 Modélisation  
+🤖 Modélisation  
 - **Modèle utilisé** : Régression Logistique avec sélection de variables et optimisation des hyperparamètres.  
 - **Évaluation** : Précision ~80%, courbe ROC et rapport de classification. 
